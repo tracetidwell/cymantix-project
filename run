@@ -1,0 +1,2 @@
+docker build -t cymantix:latest .
+docker run -t  -v $(pwd):/usr/src/app -it -p 81:8081 cymantix:latest

@@ -1,0 +1,20 @@
+# arrow == 1.2.0
+boltons == 20.2.1
+# connexion[swagger-ui] == 2.7.0
+# Flask == 1.1.4
+# flask-migrate >= 3.0.1
+# flask_sqlalchemy == 2.5.1
+# jinja2 == 2.11.2
+# MarkupSafe == 2.0.1
+notebook
+numpy >= 1.23.5
+# openapi-spec-validator == 0.2.8
+pandas == 1.4.4
+# pyarrow == 9.0.0
+# pylttb == 0.1.9
+# pymysql == 0.9.3
+# rauth == 0.7.3
+scikit-learn == 1.1.2
+scipy >= 1.9.1
+# tzwhere == 3.0.3
+# wheel == 0.35.1
